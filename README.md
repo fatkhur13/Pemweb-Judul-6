@@ -67,4 +67,3 @@ if (inputSearch) {
    - Buka tab Network pada Inspect Element (F12) peramban Anda.
    - Ketikkan nama mahasiswa pada kolom pencarian secara cepat.
    - Perhatikan bahwa request HTTP ke `api/mahasiswa.php?search=...` hanya terkirim 1 kali setelah Anda berhenti mengetik selama minimal 300 milidetik.
-"# Pemweb-Judul-6" 
